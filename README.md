@@ -1,1 +1,1 @@
-# The-forex-data-pipeline
+- This repository only contains the python code to make Dags for your forex data pieline with a csv file with some data.
